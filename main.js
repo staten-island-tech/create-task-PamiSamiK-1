@@ -15,5 +15,5 @@ function getRandomInt(max) {
 
 [1, 2, 3, 4]
 3, 4 2, 1
-{"1":"red", }
+{"1":"red", "2":"blue", "2":"green"}
 
